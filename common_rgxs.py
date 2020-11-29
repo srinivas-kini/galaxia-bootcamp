@@ -29,5 +29,3 @@ email_matcher = re.compile(r'[a-z0-9_.-]+@[a-z0-9_.-]+\.\w{3}').finditer(emails)
 xml_tag_matcher = re.compile(r'</?[a-zA-Z0-9]+>').finditer(xml_tags)
 
 
-for match in xml_tag_matcher:
-    print(match)
