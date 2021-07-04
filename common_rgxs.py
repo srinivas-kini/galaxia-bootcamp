@@ -1,6 +1,6 @@
 import re
 
-phone_nmbrs = '''
+phone_numbers = '''
              111-222-3333  
              444.555.6666
              +91 9820774218
