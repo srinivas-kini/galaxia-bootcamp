@@ -12,10 +12,9 @@ phone_nmbrs = '''
 
 emails = '''
 kinisrinivas96@gmail.com
-laurazaid_11@gmail.com
-skini@citi-us.com
+abc@gmail.com
 abc@xy_z.org
-fdsfmsfsopfs@.com
+someemail@.com
 '''
 
 xml_tags = '''
